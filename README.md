@@ -1,23 +1,23 @@
-# Hey, soy Ariel 👋
+# Hey, I'm Ariel 👋
 
-Estoy construyendo mi camino como **Full Stack Developer** y creador de productos digitales.
-Me apasiona transformar ideas en apps reales — desde el diseño hasta el deploy.
-
----
-
-## 🚀 Lo que hago
-
-- 🌐 **Web & App Development** — Frontend, Backend, todo el stack
-- 🤖 **Vibe Coding** — Construyo rápido, itero rápido, aprendo más rápido
-- 🧠 **Machine Learning** — Explorando modelos y automatizaciones inteligentes
-- 🎨 **Web Design** — UI/UX limpio, funcional y con personalidad
-- 🏗️ **Negocios digitales** — De la idea al producto en producción
+I'm building my path as a **Full Stack Developer** and digital product creator.
+I love turning ideas into real apps — from design to deployment.
 
 ---
 
-## 🛠️ Stack & Herramientas
+## 🚀 What I do
 
-**Lenguajes**
+- 🌐 **Web & App Development** — Frontend, Backend, full stack
+- 🤖 **Vibe Coding** — Build fast, iterate fast, learn even faster
+- 🧠 **Machine Learning** — Exploring models and intelligent automations
+- 🎨 **Web Design** — Clean, functional UI/UX with personality
+- 🏗️ **Digital Business** — From idea to live product
+
+---
+
+## 🛠️ Stack & Tools
+
+**Languages**
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -38,32 +38,32 @@ Me apasiona transformar ideas en apps reales — desde el diseño hasta el deplo
 
 ---
 
-## 📦 Proyectos recientes
+## 📦 Recent Projects
 
-| Proyecto | Descripción | Stack |
-|----------|-------------|-------|
-| [DeliveryCore / EnRuta Pro](https://github.com/arielvergarad-lang/codex-proyects) | Plataforma logística con rutas en tiempo real y asistente IA | Node.js · Leaflet · OpenAI |
-| [Green Life Tienda](https://ms-self-three.vercel.app) | E-commerce de aceite y miel con pago WebPay integrado | Express · PostgreSQL · Vercel |
-
----
-
-## 📈 En proceso
-
-- [ ] Profundizando en **Machine Learning** con Python
-- [ ] Construyendo más productos con **IA integrada**
-- [ ] Aprendiendo **React** y ecosistema moderno
-- [ ] Lanzando proyectos propios 🚀
+| Project | Description | Stack |
+|---------|-------------|-------|
+| [DeliveryCore / EnRuta Pro](https://github.com/arielvergarad-lang/codex-proyects) | Logistics platform with real-time routing and AI assistant | Node.js · Leaflet · OpenAI |
+| [Green Life Store](https://ms-self-three.vercel.app) | E-commerce for olive oil & honey with WebPay integration | Express · PostgreSQL · Vercel |
 
 ---
 
-## 📬 Contacto
+## 📈 Currently working on
 
-¿Tienes una idea o quieres colaborar?
+- [ ] Going deeper into **Machine Learning** with Python
+- [ ] Building more products with **integrated AI**
+- [ ] Learning **React** and modern frontend ecosystem
+- [ ] Launching my own digital products 🚀
+
+---
+
+## 📬 Get in touch
+
+Got an idea or want to collaborate?
 
 [![Gmail](https://img.shields.io/badge/arielvergarad@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:arielvergarad@gmail.com)
 
 ---
 
 <p align="center">
-  <i>Construyendo en público · Aprendiendo cada día · Enviando código real</i>
+  <i>Building in public · Learning every day · Shipping real code</i>
 </p>
